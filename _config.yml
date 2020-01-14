@@ -30,20 +30,6 @@ defaults:
       author: "US ATLAS SUPER"
   -
     scope:
-      path: "centers"
-      type: "pages"
-    values:
-      layout: "default"
-      author: "US ATLAS Physics Support"
-  -
-    scope:
-      path: "topics"
-      type: "pages"
-    values:
-      layout: "default"
-      author: "US ATLAS Physics Support"
-  -
-    scope:
       path: "guides/howto"
       type: "pages"
     values:
@@ -63,15 +49,6 @@ defaults:
     values:
       layout: "default"
       author: "US ATLAS Physics Support"
-  -
-    scope:
-      path: "people"
-      type: "pages"
-    values:
-      layout: "default"
-      author: "US ATLAS Physics Support"
-
-
 permalink: /:title/
 
 kramdown:
