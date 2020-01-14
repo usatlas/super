@@ -2,8 +2,6 @@
 title: Past Successful Proposals
 ---
 
-![PHOTO](https://usatlas.github.io/atc/images/IMG_20190610_150540.jpg "PHOTO"){:height="80%" width="80%"}
-
 Here is a list of past proposals that were funded. If we decide we want to show this information?
 
 
