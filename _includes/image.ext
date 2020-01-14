@@ -1,0 +1,36 @@
+{% comment %}
+# Liquid function to handle images uniformly across the site
+# For the moment just ensures that images are "self-linked" to
+# enable them to be opened larger, but really want to make
+# this a modal pop out on click
+{% endcomment %}
+
+ {% assign numImages = numImages | plus: 1 %}
+
+{% comment %}
+# If the image tag is absolute, prepend the site URL
+{% endcomment %}
+{% assign start-of-image = {{ {{include.src}} | truncate: 1, "" }} %}
+{% if {{start-of-image}} == "/" %}
+  {% assign url-root = {{site.baseurl}} %}
+{% else %}
+  {% assign url-root = "" %}
+{% endif %}
+
+
+<button type="button" class="btn btn-link" data-toggle="modal" data-target="#Modalimage{{numImages}}"> <img src="{{url-root}}{{include.src}}" {% if include.alt %} alt="{{ include.alt }}" {% endif %} class="img-responsive center-block"></button>
+
+<div id="Modalimage{{numImages}}" class="modal fade" tabindex="-1" role="dialog" aria-hidden="true">
+  <div class="modal-dialog modal-lg">
+    <div class="modal-content">
+        <div class="modal-header">
+          <button type="button" class="close" data-dismiss="modal">&times;</button>
+          <h4 class="modal-title">{{ include.alt }}</h4>
+        </div>
+        <div class="modal-body">
+        <img src="{{url-root}}{{include.src}}" {% if include.alt %} alt="{{ include.alt }}" {% endif %} class="">
+        </div>
+    </div>
+  </div>
+</div>
+

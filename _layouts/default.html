@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+  {% include page-header.ext %}
+  <title>{{page.title}}</title>
+</head>
+<body>
+  <!-- Our standard top bar -->
+  {% include navbar.ext %}
+
+<div class="container">
+  <div>
+    <h1>{{page.title}}</h1>
+    {% include last-updated.ext %}
+  </div>
+
+  <div class="row">
+    <div class="col-lg-8">
+      {{ content }}
+    </div>
+  </div><!-- row -->
+
+  {% include page-body-footer.ext %}
+
+</div> <!-- container -->
+{% include page-body-scripts.ext %}
+</body>
+</html>

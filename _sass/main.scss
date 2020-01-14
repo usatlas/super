@@ -1,0 +1,261 @@
+/* Boostrap blog theme */
+
+/*
+ * Globals
+ */
+
+/*
+ * Override Bootstrap's default container.
+ */
+
+@media all {
+  .container {
+    width: auto;
+  }
+}
+
+@media (min-width: 1200px){
+  .container {
+    width: auto;
+    padding-left: 12%;
+  }
+}
+
+
+@media (min-width: 1200px){
+  .col-lg-8  {
+    width: 50pc;
+  }
+}
+
+/*
+ * Globals
+*/
+
+a {
+  color: #0000bb;
+}
+
+a:hover {
+  color: #f39c12;
+}
+
+body {
+  color: #333333;
+}
+
+blockquote {
+  font-size: 14px;
+  background: #f9f9f9;
+  border-left: 10px solid #ccc;
+  margin: 1.5em 10px;
+  padding: 0.5em 10px;
+}
+
+blockquote p {
+  display: inline;
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 10px;
+}
+
+pre {
+    color: #222222;
+}
+
+h2:hover .header-link,
+h3:hover .header-link,
+h4:hover .header-link,
+h5:hover .header-link,
+h6:hover .header-link {
+  opacity: 1;
+}
+
+
+/*
+ * navbar
+ */
+
+.navbar-nav {
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+
+.form-inline {
+  padding-top: 2px;
+  padding-bottom: 2px;
+}
+
+.navbar {
+  font-weight: 500;
+  background-color: #555555;
+  min-height: 40px;
+}
+
+.navbar-brand {
+ height: 40px;
+ padding: 12.5px 15px;
+ font-size: 15px;
+}
+
+.navbar-default .navbar-nav > li > a:focus,
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-brand:hover{
+  color: #f39c12;
+}
+
+.navbar-nav>li>a {
+	padding-top: 9.5px;
+	padding-bottom: 9.5px
+}
+
+.dropdown-menu > li > a:hover,
+.dropdown-menu > li > a:focus {
+    background-color: #555555;
+}
+
+[role="button"] {
+    font-size: 16px;
+}
+
+.nav-sidebar {
+    width: 100%;
+    padding: 8px 0 0 8px;
+    border-right: 1px solid #ddd;
+}
+.nav-sidebar a {
+    color: #333;
+    -webkit-transition: all 0.08s linear;
+    -moz-transition: all 0.08s linear;
+    -o-transition: all 0.08s linear;
+    transition: all 0.08s linear;
+    -webkit-border-radius: 4px 0 0 4px;
+    -moz-border-radius: 4px 0 0 4px;
+    border-radius: 4px 0 0 4px;
+}
+.nav-sidebar .active a {
+    cursor: default;
+    background-color: #428bca;
+    color: #fff;
+    text-shadow: 1px 1px 1px #666;
+}
+.nav-sidebar .active a:hover {
+    background-color: #428bca;
+}
+.nav-sidebar .text-overflow a,
+.nav-sidebar .text-overflow .media-body {
+    white-space: nowrap;
+    overflow: hidden;
+    -o-text-overflow: ellipsis;
+    text-overflow: ellipsis;
+}
+
+.modal-content, #caption { 
+    -webkit-animation-name: zoom;
+    -webkit-animation-duration: 0.6s;
+    animation-name: zoom;
+    animation-duration: 0.6s;
+}
+
+.nav-sidebar:after{
+    content:"";
+    display:block;
+    height:75px; /* Which is the padding of div.container */
+}
+
+.modal-dialog  {
+    width: auto;
+    max-width: 95%;	
+}
+
+
+.modal-body{
+    width: auto;
+}
+
+.modal-content {
+    margin: auto;
+    display: inline-block;
+    width: auto;
+    height: auto; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    max-height: 95vh;
+    max-width: 95%;
+}
+
+.modal {
+    width: auto; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+}
+
+#wrapper {
+  padding-left: 250px;
+  transition: all 0.4s ease 0s;
+}
+
+#sidebar-wrapper {
+  margin-left: -250px;
+  top: 51px;
+  left: 250px;
+  width: 250px;
+  background: #ffffff;
+  position: fixed;
+  height: 100%;
+  overflow-y: auto;
+  z-index: 1000;
+  transition: all 0.4s ease 0s;
+}
+
+#wrapper.active {
+  padding-left: 0;
+}
+
+#wrapper.active #sidebar-wrapper {
+  left: 0;
+}
+
+#menu-toggle {
+    text-decoration: none;
+    float: left;
+    padding-right: 15px;
+}
+
+@media (max-width:767px) {
+
+    #wrapper {
+        padding-left: 0;
+    }
+
+    #sidebar-wrapper {
+        left: 0;
+    }
+
+    #wrapper.active {
+        position: relative;
+        left: 250px;
+    }
+
+    #wrapper.active #sidebar-wrapper {
+        left: 250px;
+        width: 250px;
+        transition: all 0.4s ease 0s;
+    }
+
+    #menu-toggle {
+        display: inline-block;
+    }
+}
+
+.header-link {
+  position: absolute;
+  left: auto;
+  opacity: 0;
+
+  \-webkit-transition: opacity 0.2s ease-in-out 0.1s;
+  \-moz-transition: opacity 0.2s ease-in-out 0.1s;
+  \-ms-transition: opacity 0.2s ease-in-out 0.1s;
+}

@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+  {% include page-header.ext %}
+  <title>US ATLAS SUPER</title>
+</head>
+<body>
+  <!-- Our standard top bar -->
+  {% include navbar.ext %}
+
+<div class="container">
+
+
+  <div class="row">
+    <div class="col-lg-8">
+      <br><br><br> <!--- hacky --->
+      <h2><a href="{{site.baseurl}}/">US ATLAS SUPER</a></h2>
+    </div>
+    <div class="col-lg-3">
+      <img src="{{site.baseurl}}/images/atlas-logo-new.png" alt="ATLAS Logo">
+    </div>
+  </div>
+
+  <br>
+
+  <div class="row">
+    <div class="col-lg-8">
+      {{ content }}
+    </div>
+
+  </div><!-- row -->
+
+  {% include page-body-footer.ext %}
+
+</div> <!-- container -->
+{% include page-body-scripts.ext %}
+</body>
+</html>

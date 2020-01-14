@@ -1,0 +1,5 @@
+# Use this file to define website locations for major pieces of
+# content, allowing them to be rearranged consistently, if needed
+howto: guides/howto
+faq: guides/faq
+past: guides/past

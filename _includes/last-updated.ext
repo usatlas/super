@@ -1,0 +1,1 @@
+<i>Last update: {{ page.path | file_date: '%d %b %Y'}} <a href="https://github.com/usatlas/super/commits/master/{{ page.path }}">[History]</a> <a href="https://github.com/usatlas/super/edit/master/{{ page.path }}">[Edit]</a></i><p>
