@@ -36,15 +36,6 @@
           </ul>
         </li>
       </ul>
-      <ul class="nav navbar-nav">
-        <li class="dropdown">
-          <a class="dropdown-toggle" data-toggle="dropdown" data-target="#" role="button">Contact Us<span class="caret"></span></a>
-          <ul class="dropdown-menu">
-            <li><a href="{{site.baseurl}}/{{site.data.locations.people}}/">People</a></li>
-            <li><a href="https://www.usatlas.bnl.gov/twiki/bin/view/AtlasSoftware/USAtlasSUPER2019"</a></li>
-	  </ul>
-        </li>
-      </ul>
       <form class="form-inline ml-auto navbar-right" id="Search" action="https://duckduckgo.com" method="get" onsubmit="search_add_site()">
         <input class="form-control input-sm" type="text" name="q" size="25" placeholder="Search SUPER...">
         <input type="hidden" name="ia" value="web">

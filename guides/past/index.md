@@ -2,19 +2,17 @@
 title: Past Successful Proposals
 ---
 
-Here is a list of past proposals that were funded. If we decide we want to show this information?
+Here is a list of past proposals that were funded.
 
+#### 2019
 
-#### Spring 2020
-
-| University PI(s) | Institution(s) | Lab(s) | Topic(s) | 
-|-------|--------|-------|--------|
-| Gabriella Sciolla | Brandeis | BNL | ITk Stave Assembly, WW physics analysis, LGAD R&D |
-| Masahiro Morii | Harvard | BNL | ITk Upgrade Strip Stave Assembly |
-| Melissa Franklin | Harvard | LBNL | dE/dx Analysis |
-| Junjie Zhu | Michigan | ANL | WWW Observation |
-| Kathryn Grimm, Yongsheng Gao, Joshua Moss | CSU | SLAC | ITk pixel Upgrade |
-| Laura Jeanty | Oregon | SLAC, LBNL | ITk pixel data-acquisition software |
-| Antonio Boveia | OSU | ANL | Jet Trigger Calibrations |
-| Steve Sekula | SMU | SLAC | ITk data transmission, Higgs Analysis |
-| Peter Loch | Arizona | - | Hadronic Final State Forum & Hadronic Calibration Workhop |
+| Institution | Topic | 
+|-------|--------|
+| Brandeis University | Calibration of BCAMs | 
+| California State University, Fresno | Leveraging Existing Cloud Service Infrastructure to serve US ATLAS | 
+| Oklahoma State University | Optimization of W boson tagging and final variable for the search for vector-like quarks |
+| Southern Methodist University | Study of the Kinematics of the H0 -> gg -> bbbb Process |
+| University of Massachusetts, Amherst | Feasibility Study for High-pT Higgs Boson Measurement in the Hadronic VH Channel |
+| University of Michigan | ttH(yy) CP Analysis | 
+| University of Oregon | 3D visualization of Topocluster algorithms for trigger upgrades | 
+| University of Texas Arlington | Study of Charged Higgs to SUSY in the 3 lepton + MET final state | 
