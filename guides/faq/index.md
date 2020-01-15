@@ -3,10 +3,13 @@ title: Frequently Asked Questions
 ---
 
 >**Who should apply?**
->>As mentioned above, the proposal should be submitted by the undergraduate requesting funding after discussion with a faculty mentor on campus.
+>>The proposal should be submitted by the undergraduate requesting funding after discussion and iterating with a faculty mentor on campus.
+
+>**What form should the applications take**
+>>A simple PDF is sufficient. If necessary, the proposals can be written in the form of a Letter of Intent, though the undergraduate should iterate with their mentor in all cases.
 
 >**What will be the process by which the decisions are made?**
->>The proposals will be evaluated on a competitive basis by the US ATLAS physics support manager and deputy support manager after consulting with the rest of the US ATLAS Operation management team. Proposals will be evaluated in three areas: 1) The merit of the proposed research, 2) The ability of the student to achieve the proposed milestones, 3) A diversity component
+>>The proposals will be evaluated on a competitive basis by the US ATLAS Physics Support manager and Duputy Physics Support manager after consulting with the rest of the US ATLAS Operations management team. Proposals will be evaluated in three areas: 1) The merit of the proposed research, 2) The ability of the student to achieve the proposed milestones, 3) A diversity component
 
 >**What is the maximum dollar amount for a given award?**
 >>The maximum amount that can be requested for a standard proposal is $5,000. Variances from this amount are to be strictly limited to exceptional circumstances, but are still possible. Note that **this maximum includes overhead costs**, which should be clearly specified in the budget to be provided by the research mentor.
@@ -34,6 +37,3 @@ title: Frequently Asked Questions
 
 >**Can grants be combined with other sources of funding?**
 >>Yes, we encourage faculty mentors to investigate support from their home institutions, as well as from their own grants
-
->**What will be the process by which the decisions are made?**
->>Decisions will be made by the US ATLAS Physics Support Managers, in consultation with the rest of US ATLAS management
