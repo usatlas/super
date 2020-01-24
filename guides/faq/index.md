@@ -35,6 +35,9 @@ title: Frequently Asked Questions
 >**Are non-US citizens eligible?**
 >>Yes, as long as they are enrolled at a US institute that participates in US ATLAS
 
+>**Are current students who graduate before the summer eligible?**
+>>We aim to support undergraduates; such students are not the target audience. We don't explicitly exclude them, particularly if the student submits a very strong application, but their graduation date may be held against them during the review
+
 >**What sort of travel can be requested?**
 >>If the award is to support travel, it is likely to cover travel to one of the ATCs or to a test beam in the US. Support for travel to CERN is not encouraged, nor are proposals to base SUPER students at CERN encouraged.
 
