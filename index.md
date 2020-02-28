@@ -15,4 +15,4 @@ layout: title
 ##### This page supersedes last year's [twiki](https://www.usatlas.bnl.gov/twiki/bin/view/AtlasSoftware/USAtlasSUPER2019)
 <br>
 <br>
-##### **The call for proposals is now open! Proposals are due no later than March 1, 2020**
+##### **The call for proposals is now open! Proposals are due no later than March 1, 2020 (NEW: UPDATED DEADLINE March 8, 2020)**
