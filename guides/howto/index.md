@@ -21,7 +21,7 @@ Send proposals with all necessary material by email to [the US ATLAS Physics Sup
 * **Two letters of reference and support.** One of these needs to be from the research mentor. If the project is to take place at an ATC or elsewhere, away from the home institute, an additional, third letter of support and reference from the supervisor at the ATC/remote location is also required.
 * **Proposed budget, including overhead costs, and any planned use of funds for travel or other exceptional requests.** We expect that the research mentor at the home institute will provide this budget
 
-Students should send proposals by email to [the US ATLAS Physics Support Managers](mailto:jahreda@gmail.com,verena.martinez@gmail.com) no later than March 1, 2020. The reference letters should be sent separately to the same address. It is up to the applicant to ensure that letters are sent and received in a timely manner.
+Students should send proposals by email to [the US ATLAS Physics Support Managers](mailto:jahreda@gmail.com,verena.martinez@gmail.com) no later than March 8, 2020. The reference letters should be sent separately to the same address. It is up to the applicant to ensure that letters are sent and received in a timely manner.
 
 --------
 
