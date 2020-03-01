@@ -12,7 +12,7 @@ Questions? Comments? [Contact us](mailto:jahreda@gmail.com,verena.martinez@gmail
 How to submit a proposal
 --------
 
-Send proposals with all necessary material by email to [the US ATLAS Physics Support Managers](mailto:jahreda@gmail.com,verena.martinez@gmail.com) no later than **March 1, 2020**.
+Send proposals with all necessary material by email to [the US ATLAS Physics Support Managers](mailto:jahreda@gmail.com,verena.martinez@gmail.com) no later than **March 8, 2020**.
 
 >
  Proposals should contain several required pieces:
