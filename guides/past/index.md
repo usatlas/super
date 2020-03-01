@@ -15,4 +15,5 @@ Here is a list of past proposals that were funded.
 | University of Massachusetts, Amherst | Feasibility Study for High-pT Higgs Boson Measurement in the Hadronic VH Channel |
 | University of Michigan | ttH(yy) CP Analysis | 
 | University of Oregon | 3D visualization of Topocluster algorithms for trigger upgrades | 
+| University of Pennsylvania | Proposal to Improve Quark/Gluon Labeling of Jets |
 | University of Texas Arlington | Study of Charged Higgs to SUSY in the 3 lepton + MET final state | 
