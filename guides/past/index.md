@@ -18,6 +18,9 @@ Here is a list of past proposals that have been funded.
 | University of Michigan | Longitudinal WZ |
 | University of Pennsylvania | RPV SUSY |
 
+<br>
+##### A symposium summarizing the projects for this summer is planned for August 10, 2020, [see this indico page](https://indico.cern.ch/event/932415/)
+<br>
 
 #### 2019
 
