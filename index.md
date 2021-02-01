@@ -12,8 +12,8 @@ layout: title
 <br>
 #### The award is nominally to be used for stipends for the student, but can also be used for travel to/from an ATC. Budgets containing extra requests are allowed, though these extra requests may not be funded. Selected awardees who have submitted the best two final reports will each be eligible for up to $1000 in funding to attend the 2021 US ATLAS meeting.
 <br>
-##### **The call for proposals is now open! Proposals are due no later than March 6, 2021.** 
-##### **See the [page on how to apply for instructions.]({{site.data.locations.howto}})**
+### **The call for proposals is now open! Proposals are due no later than March 6, 2021.** 
+#### **See the [page on how to apply for instructions.]({{site.data.locations.howto}})**
 <br>
 <br>
 ##### This page supersedes the past [twiki](https://www.usatlas.bnl.gov/twiki/bin/view/AtlasSoftware/USAtlasSUPER2019)
