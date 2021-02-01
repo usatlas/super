@@ -12,9 +12,6 @@ layout: title
 <br>
 #### The award is nominally to be used for stipends for the student, but can also be used for travel to/from an ATC. Budgets containing extra requests are allowed, though these extra requests may not be funded. Selected awardees who have submitted the best two final reports will each be eligible for up to $1000 in funding to attend the 2021 US ATLAS meeting.
 <br>
-### A symposium summarizing the projects for this summer is planned for August 10, 2020, [see this indico page](https://indico.cern.ch/event/932415/)
+### **The call for proposals is now open. Proposals are due March 6, 2021 for the Summer 2021 program. Please see the **
 <br>
 ##### This page supersedes the past [twiki](https://www.usatlas.bnl.gov/twiki/bin/view/AtlasSoftware/USAtlasSUPER2019)
-<br>
-<br>
-##### **The call for proposals is now closed. Proposals were due March 8, 2020 for the Summer 2020 program. Stay tuned for future calls.**
