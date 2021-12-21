@@ -4,6 +4,26 @@ title: Past Successful Proposals
 
 Here is a list of past proposals that have been funded.
 
+#### 2021
+
+| Institution | Topic | 
+|-------|--------|
+| University of Washington	| Semi-visible jets |
+| University of California Berkeley |	Photon pointing with GNNs |
+| University of Colorado Boulder	| Peripheral lead-lead collisions |
+| University of Michigan | GUI for Muon DAQ setup |
+| University of Iowa |	ITk strip modules testing |
+| Ohio State University |	Opto-board testing automation |
+| University of Arizona	| Supercluster calibration using ML |
+| University of Pittsburgh | Trigger rate monitoring & dark photon analysis |
+| University of California Irvine | top final state reconstruction using ML |
+| Brandeis University | Non-prompt background for 4l analysis |
+| University of Texas Austin	| b-fragmentation analysis |
+
+<br>
+##### A symposium summarizing the projects for this summer was held August 19, 2021, [see this indico page](https://indico.cern.ch/event/1066365/)
+<br>
+
 #### 2020
 
 | Institution | Topic | 
@@ -19,7 +39,7 @@ Here is a list of past proposals that have been funded.
 | University of Pennsylvania | RPV SUSY |
 
 <br>
-##### A symposium summarizing the projects for this summer is planned for August 10, 2020, [see this indico page](https://indico.cern.ch/event/932415/)
+##### A symposium summarizing the projects for this summer was held August 10, 2020, [see this indico page](https://indico.cern.ch/event/932415/)
 <br>
 
 #### 2019
