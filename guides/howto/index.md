@@ -22,7 +22,7 @@ In case of any questions, please email the [the US ATLAS Physics Support Manager
 
  Applications should contain several required pieces:
 * **A short description (1 page maximum) of the motivation and planned research.** This is to be written by the student applying for SUPER funding, and must begin with a clear title. The student may discuss the proposal with their research mentor before submission. In addition to a description of the planned research, the proposal should explicitly mention any previous particle physics research (on ATLAS or otherwise).
-* **A CV or Resume** Please include relevant preparation including any applicable skills that they possess (such as competency in programming language, experience with detector hardware, knowledge of ROOT, etc).
+* **A CV or Resume.** Summarize your academic background (such as number of years of study, GPA, etc). Please include relevant preparation including any applicable skills (such as competency in a programming language, knowledge of ROOT, experience with detector hardware, etc).
 * **Contact information for a letter of support.** This should correspond to the research mentor in case this is known. If the project is to take place at an ATC or elsewhere, away from the home institute, an additional reference from the supervisor at the ATC/remote location is also appreciated. Please arrange for the reference letter(s) to be sent to [the US ATLAS Physics Support Managers and Outreach Coordinators](mailto:verena.martinez@gmail.com,mhance@ucsc.edu,joseph.haley@okstate.edu,ketevi@bnl.gov,sarah.demers@yale.edu) no later than March 1, 2022. It is up to the applicant to ensure that letters are sent and received in a timely manner.
 
 --------
