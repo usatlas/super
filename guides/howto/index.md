@@ -5,23 +5,25 @@ title: US ATLAS SUPER
 Call for Proposals
 --------
 
-The application process must begin with a student identifying a research mentor on campus. This is a faculty member at their home institute who will both sign agreements with US ATLAS and also advocate on behalf of the SUPER applicant. The research is nominally expected to take place at the student's home institute under the supervision of the research mentor, but in exceptional cases, the student can be based at one of the four US ATLAS ATCs (ANL, BNL, LBNL or SLAC). In this case, the research mentor on campus is still required, and an additional letter of support from a direct supervisor at the ATC is also required. The chosen proposals and the amount of the award will be selected on a competitive basis and funded with the available budget, though we envision funding ~9 students in 2021. Students will be expected to submit a one-page progress report to the US ATLAS Support managers at the 4 week mark of the program, and a final report of at least 3 pages at the end of the program. Students who have submitted the best two final reports will each be eligible for up to $1000 in funding to attend the 2022 US ATLAS meeting.
+The application process begins with a student identifying a research mentor. This may be a faculty member at their home institute who will supervise the SUPER applicant over the course of the summer. The research is nominally expected to take place at the student's home institute under the supervision of the research mentor, but we can also provide suggested mentors and projects in other institutions in cases where the applicant is not at a US ATLAS institution. The student can also be based at one of the four US ATLAS ATCs (ANL, BNL, LBNL or SLAC). In this case, a research mentor is also needed, and an additional supervisor at the ATC is also required. The chosen proposals will be selected on a competitive basis and funded with the available budget. We envision funding ~15 students in 2022. Students will be expected to submit a one-page progress report at the 4 week mark of the program, a final report of at least 3 pages at the end of the program and present at an online Symposium event.  Students who have submitted the best reports and the best presentation will each be eligible for up to $1000 in funding to attend the annual US ATLAS meeting.
 
 Questions? Comments? [Contact us](mailto:verena.martinez@gmail.com,mhance@ucsc.edu)
 
-How to submit a proposal
+How to apply
 --------
 
-Send proposals with all necessary material by email to [the US ATLAS Physics Support Managers](mailto:verena.martinez@gmail.com,mhance@ucsc.edu) no later than **March 6, 2021**.
+The application form can be found here
 
->
- Proposals should contain several required pieces:
-* **A short description (2 page maximum) of the planned research.** This is to be written by the student applying for SUPER funding, and must begin with a clear title. The student is expected to discuss the proposal with their research mentor before submission. In addition to a description of the planned research, the proposal should explicitly mention any previous particle physics research (on ATLAS or otherwise) and any applicable skills that they possess (such as competency in programming language, experience with detector hardware, knowledge of ROOT, etc.)
-* **A brief, planned schedule** with milestones at the 2, 4, 6 and 8 week marks of the program. We encourage each SUPER application to discuss with their faculty mentor how to make these as realistic as possible
-* **Two letters of reference and support.** One of these needs to be from the research mentor. If the project is to take place at an ATC or elsewhere, away from the home institute, an additional, third letter of support and reference from the supervisor at the ATC/remote location is also required.
-* **Proposed budget, including overhead costs, and any planned use of funds for travel or other exceptional requests.** We expect that the research mentor at the home institute will provide this budget
+**https://indico.bnl.gov/event/14122/**
 
-Students should send proposals by email to [the US ATLAS Physics Support Managers](mailto:verena.martinez@gmail.com,mhance@ucsc.edu) no later than March 6, 2021. The reference letters should be sent separately to the same address. It is up to the applicant to ensure that letters are sent and received in a timely manner.
+Click on the link Application on the left to complete the online form and upload the materials by **February 23, 2022**.
+
+In case of any questions, please email the [the US ATLAS Physics Support Managers and Outreach Coordinators](mailto:verena.martinez@gmail.com,mhance@ucsc.edu,joseph.haley@okstate.edu,ketevi@bnl.gov,sarah.demers@yale.edu).
+
+ Applications should contain several required pieces:
+* **A short description (1 page maximum) of the motivation and planned research.** This is to be written by the student applying for SUPER funding, and must begin with a clear title. The student may discuss the proposal with their research mentor before submission. In addition to a description of the planned research, the proposal should explicitly mention any previous particle physics research (on ATLAS or otherwise).
+* **A CV or Resume** Please include relevant preparation including any applicable skills that they possess (such as competency in programming language, experience with detector hardware, knowledge of ROOT, etc).
+* **Contact information for a letter of support.** This should correspond to the research mentor in case this is known. If the project is to take place at an ATC or elsewhere, away from the home institute, an additional reference from the supervisor at the ATC/remote location is also appreciated. Please arrange for the reference letter(s) to be sent to [the US ATLAS Physics Support Managers and Outreach Coordinators](mailto:verena.martinez@gmail.com,mhance@ucsc.edu,joseph.haley@okstate.edu,ketevi@bnl.gov,sarah.demers@yale.edu) no later than March 1, 2022. It is up to the applicant to ensure that letters are sent and received in a timely manner.
 
 --------
 
