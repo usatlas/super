@@ -1,9 +1,9 @@
 <hr>
 <div class="footer fixed-bottom">
-<p>Authored by {{page.author}}. Report any issues <a href="https://github.com/usatlas/atc/issues">here</a>.
+<p>Authored by {{page.author}}. Report any issues <a href="https://github.com/usatlas/super/issues">here</a>.
 </p>
-<p>Built with <a href="http://jekyllrb.com/">Jekyll</a> and
-<a href="http://getbootstrap.com/">Bootstrap</a>. Thanks to the
-<a href="http://hepsoftwarefoundation.org/">HEP Software Foundation</a> for
+<p>Built with <a href="https://jekyllrb.com/">Jekyll</a> and
+<a href="https://getbootstrap.com/">Bootstrap</a>. Thanks to the
+<a href="https://hepsoftwarefoundation.org/">HEP Software Foundation</a> for
 layout ideas.</p> 
 </div>
