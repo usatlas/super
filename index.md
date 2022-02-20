@@ -10,7 +10,7 @@ layout: title
 <br>
 #### Funded SUPER students are expected to work full-time on their proposed research project for at least 8 weeks in the summer. Each award will be for $5,000 in addition to support for travel if needed to be co-located with the mentor, for example to/from an ATC. Selected awardees will be asked to submit two reports and present at a symposium. The two best final reports will be eligible for up to $1000 in funding to attend the annual US ATLAS meeting.
 <br>
-### **The call for proposals is now open! Proposal materials are due no later than February 23, 2022.** 
+### **The call for proposals is now open! Proposal materials are due no later than February 25, 2022.** 
 #### **See the [page on how to apply for instructions.]({{site.data.locations.howto}})**
 <br>
 <br>
