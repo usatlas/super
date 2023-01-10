@@ -14,11 +14,11 @@ How to apply
 
 The application form can be found here
 
-**[https://indico.bnl.gov/event/14122/](https://indico.bnl.gov/event/14122/)**
+**[https://indico.bnl.gov/event/18045/](https://indico.bnl.gov/event/18045/)**
 
-Click on the link Application on the left to complete the online form and upload the materials by **February 25, 2022**.
+Click on the link Application on the left to complete the online form and upload the materials by **February 10, 2023**.
 
-In case of any questions, please email the [the US ATLAS Physics Support Managers and Outreach Coordinators](mailto:verena.martinez@gmail.com,mhance@ucsc.edu,joseph.haley@okstate.edu,ketevi@bnl.gov,sarah.demers@yale.edu).
+In case of any questions, please email the [the US ATLAS Physics Support Managers and Outreach Coordinators](mailto:joseph.haley@okstate.edu,mhance@ucsc.edu,vcavaliere@bnl.gov,ketevi@bnl.gov,sarah.demers@yale.edu).
 
  Applications should contain several required pieces:
 * **A short description (1 page maximum) of the motivation and planned research.** This is to be written by the student applying for SUPER funding, and must begin with a clear title. The student may discuss the proposal with their research mentor before submission. In addition to a description of the planned research, the proposal should explicitly mention any previous particle physics research (on ATLAS or otherwise).
