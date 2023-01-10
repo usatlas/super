@@ -6,7 +6,7 @@ title: Frequently Asked Questions
 >>The application should be submitted by the undergraduate requesting funding. This is typically done after discussion and iterating with a faculty mentor on campus, though please contact us if you are looking for a mentor and possible projects. Under Represented Minorities and students at Minority Serving Institutes are encouraged to apply.
 
 >**What form should the applications take**
->>The application form is available at [this link (click on Application on the left)](https://indico.bnl.gov/event/14122/). It might be helpful for the undergraduate to iterate with their mentor before submitting the materials.
+>>The application form is available at [this link (click on Application on the left)](https://indico.bnl.gov/event/18045/). It might be helpful for the undergraduate to iterate with their mentor before submitting the materials.
 
 >**What will be the process by which the decisions are made?**
 >>The proposals will be evaluated on a competitive basis by the US ATLAS Physics Support and Outreach coordinators after consulting with the rest of the US ATLAS Operations management team. Proposals will be evaluated in three areas: 1) The merit of the proposed research, 2) The ability of the student to achieve the proposed milestones, 3) A diversity component.
@@ -15,7 +15,7 @@ title: Frequently Asked Questions
 >>The final report should be 3-4 pages, and include an explanation of the work that was achieved over the course of the summer. Background information should be included, including why the project was important, what obstacles were overcome during the research and prospectives for future work. Clearly labeled plots and tables of numbers with units are encouraged.
 
 >**What is the maximum dollar amount for a given award?**
->>The amount awarded as a stipend is $5,000, paid directly to the student. Additional funds are available for travel, depending on need. 
+>>The amount awarded as a stipend is $5,500, paid directly to the student. Additional funds are available for travel for MSI students who travel to work at a US-ATLAS institution. 
 
 >**What is the length of time for the project?**
 >>The student is expected to dedicate at least 8 weeks to working on the proposed project. 
