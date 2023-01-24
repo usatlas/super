@@ -16,7 +16,7 @@ The application form can be found here
 
 **[https://indico.bnl.gov/event/18045/](https://indico.bnl.gov/event/18045/)**
 
-Click on the link Application on the left to complete the online form and upload the materials by **February 10, 2023**.
+Click on the link Application on the left to complete the online form and upload the materials by **February 17, 2023**.
 
 In case of any questions, please email the [the US ATLAS Physics Support Managers and Outreach Coordinators](mailto:joseph.haley@okstate.edu,mhance@ucsc.edu,vcavaliere@bnl.gov,ketevi@bnl.gov,sarah.demers@yale.edu).
 
